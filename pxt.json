@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "gamepad": "github:fhl228/gamepad_v333#d76230dcc2171fb62f2b7804cf0c2dc58525c294"
+        "gamepad": "github:fhl228/gamepad_v333#9414ee19a7d07df9f99329b005d18286e8c828d7"
     },
     "files": [
         "main.blocks",
@@ -18,5 +18,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
