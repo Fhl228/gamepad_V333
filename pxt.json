@@ -4,8 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*",
-        "gamepad": "github:fhl228/gamepad_v333#9414ee19a7d07df9f99329b005d18286e8c828d7"
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
